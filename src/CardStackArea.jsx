@@ -2,10 +2,11 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Box from "@mui/material/Box";
 import Card from "./Card";
 import "./Card.css";
+import "./CardStackArea.css";
 
 export const CardStackArea = ({ drawnCards, isLoading }) => {
   return (
-    <div>
+    <div className="CardStackArea">
       {isLoading ? (
         <Box sx={{ display: "flex" }}>
           <CircularProgress />

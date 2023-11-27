@@ -1,0 +1,7 @@
+.CardStackArea {
+  height: 50vh;
+}
+
+.CardStack {
+  display: flex;
+}
