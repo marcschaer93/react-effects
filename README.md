@@ -1,8 +1,10 @@
-## \***\*React Effects and Refs Exercise\*\***
+## **React Effects and Refs Exercise**
 
 ## Technologies
 
 - react
+  - useEffect()
+  - useState()
 - material UI
 - custom Hook's (useFetch(), UseToggleState())
 
